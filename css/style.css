@@ -1,0 +1,64 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.home {
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat; 
+    background-position: right;
+    background-size: 80%;
+   
+       
+}
+.about {
+    background-image: url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;   
+}
+.music{
+    background-image: url(../img/music-top.jpg);
+    background-repeat: no-repeat;  
+    background-position-y: top;
+    
+}
+.emilia{
+    font-size: 61px;
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+}
+.h1-index{
+    font-size: 70px;
+    background-color: rgba(240, 248, 255, 0.433);
+    font-family: 'Raleway', sans-serif;
+
+}
+.lista-index{
+     text-decoration: none;
+    color: rgb(61, 73, 73);
+    list-style: none;
+    text-transform: uppercase;
+}
+.emojis-index{
+    margin-left: 30px;
+}
+.menu-derecha{
+    text-align: right;
+    text-decoration: none;
+    color: black;
+    margin-top: 30px;
+    background-color: rgba(240, 248, 255, 0.556);
+    font-size: 25px;
+}
+.emojis-derecha{
+    text-align: right;
+}
+.h1-about{
+    text-transform: uppercase;
+    font-size: 70px;
+}
+.frase-about{
+    font-size: 30px;
+    color: rgb(31, 202, 145);
+}
+.jhon{
+    color: rgb(31, 202, 145);
+}
